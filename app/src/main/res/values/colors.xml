@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="Salmon">#FF9A76</color>
+    <color name="litSalmon">#FFEBE4</color>
+    <color name="Shandy">#FFDF76</color>
+    <color name="FrenchPink">#FF7697</color>
+</resources>
